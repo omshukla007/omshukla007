@@ -13,10 +13,10 @@
 <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" style="width: 100%" />
 </div>
 
-### _<div align="center">Hi 👋  I'm Om Shukla </div>_
+### _<div align="center">Hi 👋  I'm Om Shukla 💫 </div>_
 
 <p align="left">
- 👋 I'm a full-stack developer who's passionate about creating solutions.
+ 👀 I'm a full-stack developer who's passionate about creating solutions.
 <br>
 🎓 Recent Software Engineer graduate at BBDNIIT.  
 <br>
