@@ -13,7 +13,7 @@
 <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" style="width: 100%" />
 </div>
 
-###_<div align="center">Hi I'm Om Shukla </div>_
+### _<div align="center">Hi I'm Om Shukla </div>_
 
 <div align="center">👋 I'm a full-stack developer who's passionate about creating solutions.</div>
 
@@ -68,8 +68,8 @@
 ## 🔥 Stats 🔥
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achris-alonzo30&layout=compact&hide_border=true&theme=transparent" align="center" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=achris-alonzo30&theme=transparent&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omshukla12&layout=compact&hide_border=true&theme=transparent" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omshukla12&theme=transparent&hide_border=true" align="center" />
 </div>  
 
 
